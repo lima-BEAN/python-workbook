@@ -18,4 +18,4 @@ flour = cookies * 0.05729
 print("For", cookies, "cookies, you need:",
       "\n\t", format(sugar, ".2f"), "cups of sugar",
       "\n\t", format(butter, ".2f"), "cups of butter",
-      "\n\t", format(flour, ".2f"), "cups of flour",)
+      "\n\t", format(flour, ".2f"), "cups of flour",

@@ -10,3 +10,4 @@ if points >= 9 or points <= 51:
     print("Valid points")
 else:
     print("Invalid points!")
+cd .
