@@ -1,0 +1,10 @@
+lima-BEAN 1
+lima-BEAN 2
+lima-BEAN 3
+lima-BEAN 4
+lima-BEAN 5
+lima-BEAN 6
+lima-BEAN 7
+lima-BEAN 8
+lima-BEAN 9
+lima-BEAN 10
